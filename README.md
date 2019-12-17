@@ -18,13 +18,14 @@ inspired by Carsten Nicolai, "GridIndex", Gestalten, 2009/5/25
 polyShape -> alignGuide -> intersection -> ofApp    
 
 * Procedure  
-Setup save directory -> Generate grid -> Save Layer/Points  
+Select text box -> Drag & Drop save directory -> Generate grid -> Save layer/points -> Open SVG file in Illustrator 
 
-* Save SVG  
-data/layer_---.svg  
+
+* SVG file  
+(Save directory)/layer_---.svg  
 
 ![sample2](img/save_0.png)
 
-data/point_---.svg  
+(Save directory)/point_---.svg  
  
 ![sample3](img/save_1.png)
