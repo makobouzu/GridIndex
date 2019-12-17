@@ -16,7 +16,7 @@ void ofApp::setup(){
     window = true;
     
     //Directory
-    directory = ofSystemTextBoxDialog("Save Directory", "data/");
+    directory = ofSystemTextBoxDialog("Save Directory");
 }
 
 //--------------------------------------------------------------
